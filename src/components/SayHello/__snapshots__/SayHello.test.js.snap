@@ -5,9 +5,7 @@ exports[`<SayHello /> should render with one wrapper div 1`] = `
   <h3
     className="heading"
   >
-    Hello 
-    testName
-    ...!
+    Hey there...!
   </h3>
   <p>
     Welcome to adp management
